@@ -1,0 +1,5 @@
+{
+  "name": "SciViz GenAI",
+  "description": "An interactive scientific visualizer that generates animated SVG diagrams, textual explanations, and voice narration for scientific and technical concepts using Gemini.",
+  "requestFramePermissions": []
+}
